@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="QtSerialPort">
+    </qresource>
+</RCC>
